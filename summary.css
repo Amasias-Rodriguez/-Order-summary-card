@@ -4,3 +4,37 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+body{
+    background-image: url(/imagenes/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+    padding-top: 6rem;
+}
+
+.section1{
+    width: 450px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+.header-img{
+    border-radius: 10px;
+}
+
+.sec1-h1{
+    font-size: 25px;
+    padding: 2rem 0 1rem 0;
+    display: block;
+    text-align: center;
+}
+
+.sec1-p{
+    font-size: 16px;
+    font-weight: 500;
+    display: block;
+    text-align: center;
+    padding: 0 70px 2rem;
+    color: #979191;
+}
